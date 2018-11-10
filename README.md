@@ -8,6 +8,6 @@ Students List:
 Last name| First name
 __________________
 Jameson    James <br>
-Davidson   David
-Patteson   Patty
+Davidson   David <br>
+Patteson   Patty <br>
 Patteson   Pat
