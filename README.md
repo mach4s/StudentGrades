@@ -7,7 +7,7 @@ This project searches the last name of a student. When clicking on the student n
 Students List:
 Last name| First name
 __________________
-Jameson    James
+Jameson    James <br>
 Davidson   David
 Patteson   Patty
 Patteson   Pat
